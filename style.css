@@ -233,10 +233,11 @@ nav ul li a:hover::after{
 
   .image {
     position: absolute;
-    margin-left: 25em;
+    margin-left: 30em;
     margin-top: -10em;
     border-radius: 50%;
     background-color: #ff7300;
+    width: 10em;
   }
 
   /*-------sample-----*/
